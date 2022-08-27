@@ -1,0 +1,29 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-color: #293462;
+  border-width: 5px;
+  width: auto;
+}
+
+h1 {
+  color: #2C3333;
+}
+
+h3 {
+  color: #2B4865;
+}
+
+table {
+  color: #2B4865;
+}
+
+ul {
+  color: #2B4865;
+}
+
+head {}
